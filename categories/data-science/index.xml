@@ -2,19 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science on </title>
-    <link>https://examplesite.com/categories/data-science/</link>
+    <link>https://Rupesh707.github.io/Portfolio/categories/data-science/</link>
     <description>Recent content in Data Science on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Rupesh707.github.io/Portfolio/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project Title</title>
-      <link>https://examplesite.com/portfolio/project-1/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>M1</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-1/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-1/</guid>
+      <description>Project framework   PROJECT OVERVIEW:
+The primary objective of the project is to determine the clients that would most likely purchase Apple&amp;rsquo;s newly released M1 Macbook.</description>
+    </item>
+    
+    <item>
+      <title>Text-To-Speech</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-2/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-2/</guid>
+      <description>Project overview   Convey sessional greetings to build everlasting memories,I developed a text to speech code to wish Happy New Years in 164 languages.</description>
     </item>
     
   </channel>

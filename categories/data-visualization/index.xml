@@ -2,28 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Visualization on </title>
-    <link>https://examplesite.com/categories/data-visualization/</link>
+    <link>https://Rupesh707.github.io/Portfolio/categories/data-visualization/</link>
     <description>Recent content in Data Visualization on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/categories/data-visualization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://Rupesh707.github.io/Portfolio/categories/data-visualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Toolbox</title>
-      <link>https://examplesite.com/portfolio/project1/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      <title>EU Solor Power</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-4/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project1/</guid>
-      <description>Understand the core concepts of DSS (project, flow, datasets .</description>
-    </item>
-    
-    <item>
-      <title>Airbnb rental</title>
-      <link>https://examplesite.com/portfolio/project-2/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project-2/</guid>
-      <description>Project Details To build an analystical dashboard to present to the board of directors on New York market segment and provide business insights.</description>
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-4/</guid>
+      <description>Detailed information of datasets  Hourly PV capacity factors for the EU-28 plus Norway and Switzerland, simulated with MERRA-2 and CM-SAF SARAH, as described in the following paper:  [1] Pfenninger, Stefan and Staffell, Iain (2016).</description>
     </item>
     
   </channel>

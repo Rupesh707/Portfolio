@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certifications on </title>
+    <link>https://Rupesh707.github.io/Portfolio/categories/certifications/</link>
+    <description>Recent content in Certifications on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Rupesh707.github.io/Portfolio/categories/certifications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dataiku</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-7/</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-7/</guid>
+      <description>Understand the core concepts of DSS (project, flow, datasets .</description>
+    </item>
+    
+    <item>
+      <title>Toolbox</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-8/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-8/</guid>
+      <description>Main tools and ideas in the data scientist&amp;rsquo;s toolbox.</description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project1/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project1/</guid>
+      <description>The course covered key elements of machine learning for business leaders.</description>
+    </item>
+    
+    <item>
+      <title>R Data Science</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project/</guid>
+      <description> Fundamental principles of R programming Comprehend to import and Export data Different operators that help in performing the tasks Gained understanding of different data types and data structures Acquired the knowledge to create vectors and variables Knowledge on how to build and use matrices LEARN about character, integer, numeric, double, logical, complex types Understanding of Subsetting data Gained knowledge on creating loop and if-else statement Understanding of descriptive statistics Understanding on apply family Gained understanding of data manipulation  </description>
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-9/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-9/</guid>
+      <description>The certification introduced to relational database concepts and help you learn and apply foundational knowledge of the SQL language.</description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-6/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-6/</guid>
+      <description>The Google Analytics Individual Qualification covers advanced Google Analytics concepts. This includes: planning and principles; implementation and data collection; configuration and administration; conversion and attribution; and reports, metrics, and dimensions.</description>
+    </item>
+    
+  </channel>
+</rss>

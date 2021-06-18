@@ -2,147 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/"
+                href="https://Rupesh707.github.io/Portfolio/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/"
+                href="https://Rupesh707.github.io/Portfolio/"
                 />
   </url><url>
-    <loc>https://examplesite.com/portfolio/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/categories/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/categories/"
+                href="https://Rupesh707.github.io/Portfolio/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/categories/"
+                href="https://Rupesh707.github.io/Portfolio/categories/"
                 />
   </url><url>
-    <loc>https://examplesite.com/categories/certification/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/categories/certification/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-7/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project-7/</loc>
     <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/data-visualization/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/categories/data-visualization/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-8/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project-8/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-9/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project-9/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project1/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project1/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project2/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project2/</loc>
     <lastmod>2021-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-6/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project-6/</loc>
     <lastmod>2020-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/access/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project-2/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-2/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/categories/dashboard/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/art/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/categories/data-science/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/dashboard/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project-1/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/data-science/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project-3/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/database/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/portfolio/project-4/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/design/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://Rupesh707.github.io/Portfolio/funfacts/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/development/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://Rupesh707.github.io/Portfolio/banner/</loc>
   </url><url>
-    <loc>https://examplesite.com/blog/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://Rupesh707.github.io/Portfolio/contact/</loc>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://Rupesh707.github.io/Portfolio/about/</loc>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://Rupesh707.github.io/Portfolio/call-to-action/</loc>
   </url><url>
-    <loc>https://examplesite.com/portfolio/project-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://Rupesh707.github.io/Portfolio/service/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/sketch/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/tags/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://Rupesh707.github.io/Portfolio/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://examplesite.com/fr/tags/"
+                href="https://Rupesh707.github.io/Portfolio/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://examplesite.com/tags/"
+                href="https://Rupesh707.github.io/Portfolio/tags/"
                 />
   </url><url>
-    <loc>https://examplesite.com/blog/blog-1/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/blog/blog-2/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/blog/blog-3/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/blog/blog-4/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/blog/blog-5/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/blog/blog-6/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/tags/web/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/funfacts/</loc>
-  </url><url>
-    <loc>https://examplesite.com/banner/</loc>
-  </url><url>
-    <loc>https://examplesite.com/contact/</loc>
-  </url><url>
-    <loc>https://examplesite.com/about/</loc>
-  </url><url>
-    <loc>https://examplesite.com/call-to-action/</loc>
-  </url><url>
-    <loc>https://examplesite.com/service/</loc>
-  </url><url>
-    <loc>https://examplesite.com/testimonial/</loc>
+    <loc>https://Rupesh707.github.io/Portfolio/testimonial/</loc>
   </url>
 </urlset>

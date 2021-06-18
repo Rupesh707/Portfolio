@@ -1,110 +1,101 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>https://examplesite.com/portfolio/</link>
-    <description>Recent content on </description>
+    <title>Portfolio on </title>
+    <link>https://Rupesh707.github.io/Portfolio/portfolio/</link>
+    <description>Recent content in Portfolio on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Rupesh707.github.io/Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dataiku</title>
-      <link>https://examplesite.com/portfolio/project-7/</link>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-7/</link>
       <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-7/</guid>
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-7/</guid>
       <description>Understand the core concepts of DSS (project, flow, datasets .</description>
+    </item>
+    
+    <item>
+      <title>M1</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-1/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-1/</guid>
+      <description>Project framework   PROJECT OVERVIEW:
+The primary objective of the project is to determine the clients that would most likely purchase Apple&amp;rsquo;s newly released M1 Macbook.</description>
+    </item>
+    
+    <item>
+      <title>Travel App</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-5/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-5/</guid>
+      <description>As travel &amp;amp; tourism industry comes to a complete halt due to the pandemic.</description>
+    </item>
+    
+    <item>
+      <title>Toolbox</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-8/</link>
+      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-8/</guid>
+      <description>Main tools and ideas in the data scientist&amp;rsquo;s toolbox.</description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project1/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project1/</guid>
+      <description>The course covered key elements of machine learning for business leaders.</description>
+    </item>
+    
+    <item>
+      <title>R Data Science</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project/</guid>
+      <description> Fundamental principles of R programming Comprehend to import and Export data Different operators that help in performing the tasks Gained understanding of different data types and data structures Acquired the knowledge to create vectors and variables Knowledge on how to build and use matrices LEARN about character, integer, numeric, double, logical, complex types Understanding of Subsetting data Gained knowledge on creating loop and if-else statement Understanding of descriptive statistics Understanding on apply family Gained understanding of data manipulation  </description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://examplesite.com/portfolio/project-8/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-9/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-8/</guid>
-      <description>Understand the core concepts of DSS (project, flow, datasets .</description>
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-9/</guid>
+      <description>The certification introduced to relational database concepts and help you learn and apply foundational knowledge of the SQL language.</description>
     </item>
     
     <item>
-      <title>Toolbox</title>
-      <link>https://examplesite.com/portfolio/project-9/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      <title>Text-To-Speech</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-2/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-9/</guid>
-      <description>Understand the core concepts of DSS (project, flow, datasets .</description>
-    </item>
-    
-    <item>
-      <title>Toolbox</title>
-      <link>https://examplesite.com/portfolio/project/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project/</guid>
-      <description>Understand the core concepts of DSS (project, flow, datasets .</description>
-    </item>
-    
-    <item>
-      <title>Toolbox</title>
-      <link>https://examplesite.com/portfolio/project1/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project1/</guid>
-      <description>Understand the core concepts of DSS (project, flow, datasets .</description>
-    </item>
-    
-    <item>
-      <title>Toolbox</title>
-      <link>https://examplesite.com/portfolio/project2/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project2/</guid>
-      <description>Understand the core concepts of DSS (project, flow, datasets .</description>
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-2/</guid>
+      <description>Project overview   Convey sessional greetings to build everlasting memories,I developed a text to speech code to wish Happy New Years in 164 languages.</description>
     </item>
     
     <item>
       <title>Google</title>
-      <link>https://examplesite.com/portfolio/project-6/</link>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-6/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-6/</guid>
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-6/</guid>
       <description>The Google Analytics Individual Qualification covers advanced Google Analytics concepts. This includes: planning and principles; implementation and data collection; configuration and administration; conversion and attribution; and reports, metrics, and dimensions.</description>
     </item>
     
     <item>
-      <title>Airbnb rental</title>
-      <link>https://examplesite.com/portfolio/project-2/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>EU Solor Power</title>
+      <link>https://Rupesh707.github.io/Portfolio/portfolio/project-4/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/portfolio/project-2/</guid>
-      <description>Project Details To build an analystical dashboard to present to the board of directors on New York market segment and provide business insights.</description>
-    </item>
-    
-    <item>
-      <title>Project Title</title>
-      <link>https://examplesite.com/portfolio/project-1/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Project Title</title>
-      <link>https://examplesite.com/portfolio/project-3/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Project Title</title>
-      <link>https://examplesite.com/portfolio/project-4/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://Rupesh707.github.io/Portfolio/portfolio/project-4/</guid>
+      <description>Detailed information of datasets  Hourly PV capacity factors for the EU-28 plus Norway and Switzerland, simulated with MERRA-2 and CM-SAF SARAH, as described in the following paper:  [1] Pfenninger, Stefan and Staffell, Iain (2016).</description>
     </item>
     
   </channel>
